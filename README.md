@@ -1,16 +1,18 @@
-### Hi there 👋
+### - Hi there, Iam Ahammed Shaheedhudheen 👋
 
-<!--
-**shaheedhudheen/shaheedhudheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### - 🔭 I’m currently working on Mobile app development and web development.
 
-Here are some ideas to get you started:
+### - 🌱 I’m currently learning flutter,node.js,react,python,Js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - 👯 I’m looking to collaborate on Android apps and web development
+
+### - 🤔 I’m looking for help with everything i don't know
+
+### - 💬 Ask me about Tech, photography.
+
+### - 📫 How to reach me: shaheedhudheenpambalath@gmail.com
+
+### - 😄 Pronouns: He/Him
+
+### - ⚡ Fun fact: me
+
