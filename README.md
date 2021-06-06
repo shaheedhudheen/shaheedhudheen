@@ -34,18 +34,31 @@
 
 <p align="left">
 <img src="https://github.com/shaheedhudheen/icons/blob/main/html.png" alt="html5" width="40" height="40"/>
-<img src="https://github.com/shaheedhudheen/icons/blob/19dfd836e90bac244a7eab3a1f0f0242ca56216d/css.png" alt="css3" width="40" height="40"/> 
+ &nbsp;
+<img src="https://github.com/shaheedhudheen/icons/blob/19dfd836e90bac244a7eab3a1f0f0242ca56216d/css.png" alt="css3" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/javascript-programming-language.png" alt="javascript" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/c-plus-plus-programming-language.png" alt="c++" width="40" height="40"/> 
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/flutter.png" alt="flutter" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/java-programming-language%20(1).png" alt="java" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/node-js.png" alt="nodejs" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/python-programming-language.png" alt="python" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/react-js.png" alt="react" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/vue-js.png" alt="vue" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/typescript-programming-language.png" alt="typescript" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/git.png" alt="git" width="40" height="40"/>
+ &nbsp;
 <img src="https://github.com/shaheedhudheen/icons/blob/main/php-programming-language.png" alt="html5" width="40" height="40"/>
+ &nbsp;
 <!-- <img src="" alt="html5" width="40" height="40"/> -->
 
 
