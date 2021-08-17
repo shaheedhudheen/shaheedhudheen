@@ -72,7 +72,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheedhudheen&layout=compact&theme=tokyonight" alt="languages" height="165">
 
-![Visitor Count](https://profile-counter.glitch.me/{shaheedhudheen}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{shaheedhudheen}/count.svg) -->
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shaheedhudheen&show_icons=true&theme=gotham" alt="Ahammed Shaheedhudheen | Stats" />
 
