@@ -15,7 +15,7 @@
 
 ### - 🔭 I’m currently working on Mobile app development and web development.
 
-### - 🌱 I’m currently learning flutter,node.js,react,python,Js.
+### - 🌱 I’m currently learning JavaScript.
 
 ### - 👯 I’m looking to collaborate on Android apps and web development
 
