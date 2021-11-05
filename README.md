@@ -15,19 +15,30 @@
 
 ### - 🔭 I’m currently working on Mobile app development and web development.
 
-### - 🌱 I’m currently learning JavaScript.
+### - 🌱 I’m currently learning Data Structures and Algorithms & Web Development.
 
 ### - 👯 I’m looking to collaborate on Android apps and web development
 
 ### - 🤔 I’m looking for help with everything i don't know
 
-### - 💬 Ask me about Tech, photography.
+### - 💬 Ask me about Anything related Tech & Photography.
 
 ### - 📫 How to reach me: shaheedhudheenpambalath@gmail.com
 
 ### - 😄 Pronouns: He/Him
 
-### - ⚡ Fun fact: me
+### - ⚡ Fun fact: I Love Photography
+
+<!-- 👉 Primary coding language: Python.
+😉 I’m currently working on my Portfolio.
+🔭 I’m currently diving deep 🤿 into my college coursework
+🌱 I’m currently learning Data Structures and Algorithms, Web Development and Machine Learning .
+👯 I’m looking to collaborate on diffrent kinds of projects(DSA, Web development, Data Science/Machine Learning)
+🤔 I’m looking for help with Flutter development.
+💬 Ask me about anything, I'm happy to help.
+🤩 Competitive Programmer
+😄 Pronouns: He/Him.
+⚡ Fun fact: I love Programming, Volleyball and Pool. -->
 
 
 ### My Tech Toolbox 🧰
