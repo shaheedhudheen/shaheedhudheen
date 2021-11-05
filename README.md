@@ -11,7 +11,6 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
  -->
 
-### - Hi there, Iam Ahammed Shaheedhudheen 👋
 
 ### - 🔭 I’m currently working on Mobile app development and web development.
 
