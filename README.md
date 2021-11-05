@@ -12,7 +12,7 @@
  -->
 
 
-### - 🔭 I’m currently working on Mobile app development and web development.
+### - 🔭 I’m currently working on my a Project.
 
 ### - 🌱 I’m currently learning Data Structures and Algorithms & Web Development.
 
