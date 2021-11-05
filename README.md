@@ -11,6 +11,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
  -->
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/lBm4rgtyIPJmywXzLW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/processing-coding-proc-lBm4rgtyIPJmywXzLW">via GIPHY</a></p>
 
 ### - 🔭 I’m currently working on Mobile app development and web development.
 
