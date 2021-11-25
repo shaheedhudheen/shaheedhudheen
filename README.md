@@ -27,3 +27,19 @@ Welcome to my GitHub profile! Thank you for visiting! 🙃
  
    ⚡ Hobbies: I Love Photography
 </div>
+
+<div align="center">
+ 
+ <div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheedhudheen&show_icons=true&theme=graywhite&hide_border=true)
+  
+  </div>
+  
+  <div align="center">
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheedhudheen&layout=compact&langs_count=6&hide_border=true&theme=graywhite)
+   
+   </div>
+ 
+ </div>
