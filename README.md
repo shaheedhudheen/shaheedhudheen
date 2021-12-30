@@ -1,10 +1,10 @@
 <img align="center" src="test.jpg" alt="header image">
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am, Ahammed Shaheedhudheen </h1>
 
-<h3 align="center">A Front-End Developer </h3>
+<h3 align="center">Front-End Developer </h3>
 
 <p align="center">
-Welcome to my GitHub profile! Thank you for visiting! 🙃
+Welcome to my GitHub profile! Thanks for visiting! 🙃
 </p>
 
 <h2 align="center">About Me </h2>
