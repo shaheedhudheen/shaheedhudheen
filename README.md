@@ -4,7 +4,7 @@
 <h3 align="center">Front-End Developer </h3>
 
 <p align="center">
-Welcome to my GitHub profile! Thanks for visiting! 🙃
+Welcome to my GitHub profile!🙃
 </p>
 
 <h2 align="center">About Me </h2>
