@@ -14,7 +14,7 @@ Welcome to my GitHub profile!🙃
 <p align="center"><strong>More:</strong></p>
 <div align="center">
  
-   🔭 I’m currently working on my Portfolio Website.
+   🔭 I’m currently working on Front-end Development.
  
    👯 I’m looking to collaborate on web development projects.
  
@@ -26,7 +26,7 @@ Welcome to my GitHub profile!🙃
    
    😄 Pronouns: He/Him
  
-   ⚡ Hobbies: I Love Photography
+   ⚡ Hobbies: I Love Photography and Gaming
 </div>
  
  <div align="center">
