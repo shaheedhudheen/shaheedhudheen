@@ -9,7 +9,7 @@ Welcome to my GitHub profile!🙃
 
 <h2 align="center">About Me </h2>
 
-<p align="center"> I'am Ahammed Shaheedhudheen, a 22 year old Front-end Developer, currently pursuing my Batchelor's in Computer Science Engineering 🎓 From Cochin University of Science and Technology🏫. I'am passionate about Full-Stack Development and now learning React⚛️. </p>
+<p align="center"> I'am Ahammed Shaheedhudheen </p>
 
 <p align="center"><strong>More:</strong></p>
 <div align="center">
