@@ -9,7 +9,7 @@ Welcome to my GitHub profile!🙃
 
 <h2 align="center">About Me </h2>
 
-<p align="center"> I'am Ahammed Shaheedhudheen </p>
+<p align="center"> I'am Ahammed Shaheedhudheen, a frontend developer who is passionate about creating beautiful and functional web applications. I'm currently learning JavaScript & React, and I'm always eager to explore new technologies and frameworks. I enjoy working on challenging projects that allow me to apply my skills and learn from others. I'm looking for opportunities to collaborate with other developers and contribute to open source projects. You can check out some of my work on my GitHub profile. </p>
 
 <p align="center"><strong>More:</strong></p>
 <div align="center">
