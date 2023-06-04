@@ -23,8 +23,6 @@ Welcome to my GitHub profile!🙃
    💬 Ask me about Anything related Tech
    
    📫 How to reach me: shaheedhudheenpambalath@gmail.com
-   
-   😄 Pronouns: He/Him
  
    ⚡ Hobbies: I Love Photography and Gaming
 </div>
