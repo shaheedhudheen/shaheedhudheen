@@ -1,36 +1,8 @@
-<!-- <img align="center" src="test.jpg" alt="header image">
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am, Ahammed Shaheedhudheen </h1>
-
-
-
-<p align="center">
-Welcome to my GitHub profile!🙃
-</p>
-
-<h2 align="center">About Me </h2>
-
-<p align="center"> I'am Ahammed Shaheedhudheen, a frontend developer who is passionate about creating beautiful and functional web applications. I'm currently learning JavaScript & React, and I'm always eager to explore new technologies and frameworks. I enjoy working on challenging projects that allow me to apply my skills and learn from others. I'm looking for opportunities to collaborate with other developers and contribute to open source projects. You can check out some of my work on my GitHub profile. </p>
-
-<p align="center"><strong>More:</strong></p>
-<div align="center">
- 
-   🔭 I’m currently working on Front-end Development.
- 
-   👯 I’m looking to collaborate on web development projects.
- 
-   🤔 I’m looking for help with everything i don't know
- 
-   💬 Ask me about Anything related Tech
-   
-   📫 How to reach me: shaheedhudheenpambalath@gmail.com
- 
-   ⚡ Hobbies: I Love Photography and Gaming
-</div> -->
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahammed Shaheedhudheen
 ========================================================================================================================================
 
-I am Front End developer.
+Front End developer.
 --------------------------
 
 *   🌍  I'm based in Kerala, India
