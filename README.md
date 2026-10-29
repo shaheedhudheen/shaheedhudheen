@@ -73,24 +73,6 @@ Building scalable web & mobile applications with JavaScript/TypeScript — from 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shaheedhudheen&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=79C0FF&amp;include_all_commits=true" />
-        <img alt="Ahammed Shaheedhudheen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shaheedhudheen&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA&amp;include_all_commits=true" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheedhudheen&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;langs_count=8" />
-        <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheedhudheen&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A&amp;langs_count=8" />
-      </picture>
-    </td>
-  </tr>
-</table>
 
 ### 🤝 Connect With Me
 
